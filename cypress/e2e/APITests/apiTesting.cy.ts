@@ -1,7 +1,5 @@
 /// <reference types="cypress" />
-import { any } from "cypress/types/bluebird"
-import { forEach, includes } from 'cypress/types/lodash'
-import { JsxEmit } from "typescript"
+
 // import { BaseURLandToken } from "./baseUrlAndToken"
 
 
